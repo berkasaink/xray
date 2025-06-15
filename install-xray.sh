@@ -3,7 +3,7 @@
 # ==========================
 # VARIABEL DASAR
 # ==========================
-DOMAIN=yourdomain.com
+DOMAIN=crut.idssh.net
 XRAY_PATH=/usr/local/etc/xray
 XRAY_BIN=/usr/local/bin/xray
 XRAY_SERVICE=/etc/systemd/system/xray.service
